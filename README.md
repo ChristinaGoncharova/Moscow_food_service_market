@@ -1,5 +1,5 @@
 # Moscow's_food_service_market
-Pet project 3. Moscow's food service market analysis (EDA, pandas, matplotlib, seaborn)
+Pet project 3. Moscow's food service market analysis (EDA, pandas, matplotlib, seaborn, Jupyter Notebook)
 
 ### Заказчик
 Инвестиционный фонд Shut Up and Take My Money
